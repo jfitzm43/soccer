@@ -1,7 +1,13 @@
 English Premier League Clubs:
+  Arsenal
+  Chelsea
+  Manchester Uniten
+  Everton
+  Liverpool
 
-Arsenal
-Chelsea
-Manchester Uniten
-Everton
-Liverpool
+Spanish League CLubs:
+  Real Madrid
+  Barcelona
+  Valencia
+  Real Sociedad
+  Real Betis
